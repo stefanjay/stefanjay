@@ -1,5 +1,7 @@
 <p align="center">c4tz mau` because they need bytezz <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="50">
 </p>
+<!-- <p align="center">c4tz mau` because they need bytezz <img src="https://github.com/images/modules/search/dark2x.png" width="50">
+</p>-->
 
 ![grafik](https://github.com/stefanjay/stefanjay/assets/25341320/30a32048-d2a0-4bbb-8056-841cb505331e)
 
